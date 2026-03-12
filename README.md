@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Analytics and Business Analytics projects<br><br>👯 I’m looking to collaborate on Data Analysis, Python and Machine Learning projects<br><br>🤝 I’m looking for help with improving my Data Analytics and SQL skills<br><br>🌱 I’m currently learning Python, SQL, Power BI and Data Analytics<br><br>💬 Ask me about Business Analytics, Data Analysis and Python basics<br><br>⚡ Fun fact: I enjoy turning raw data into meaningful insights
+🔭 I’m currently working on Data Analytics and Business Analytics projects<br><br>👯 I’m looking to collaborate on Data Analysis, Python and Machine Learning projects<br><br>🤝 I’m looking for help with improving my Data Analytics and SQL skills<br><br>🌱 I’m currently learning Python, SQL, Power BI and Data Analytics<br><br>💬 Ask me about Business Analytics, Data Analysis and Finance analytics  Python basics<br><br>⚡ Fun fact: I enjoy turning raw data into meaningful insights
 
 
 ## 🌐 Socials:
